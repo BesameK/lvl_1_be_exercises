@@ -21,8 +21,10 @@ firstVar = secondVar;
 // secondVar = 'meore'
 secondVar = thirdVar;
 
+function a() {
 
+}
 console.log('First: ', firstVar);
 console.log('Second:', secondVar);
 
-console.log("new commit")
+console.log("Temuri feiqrishvili")
